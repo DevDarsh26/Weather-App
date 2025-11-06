@@ -12,7 +12,7 @@ let temp = document.querySelector("#temp")
 let day = document.querySelector("#day")
 
 
-// Main  Logic to fetch weather info based on city name
+// Main Logic to fetch weather info based on city name
 
 async function getWeather(city) {
     try {
