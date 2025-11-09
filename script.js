@@ -1,5 +1,5 @@
-const API_KEY = "75fbd0e6c36f17499d22e90304ee1bd1"; // API KEY
-const API_URL = "https://api.openweathermap.org/data/2.5/weather?units=metric&q="; // API URL
+const API_KEY = "YOUR_API_KEY"; // API KEY
+const API_URL = "YOUR_API_URL"; // API URL
 
 // Selecting HTML elements
 
