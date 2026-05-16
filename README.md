@@ -1,4 +1,4 @@
-# 🌤️ Weather App
+# 🌤️ Weather App Using Javascript
 
 A simple weather-application 
 
