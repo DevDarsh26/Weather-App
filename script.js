@@ -1,5 +1,5 @@
-const API_KEY = "YOUR_API_KEY"; // API KEY
-const API_URL = "YOUR_API_URL"; // API URL
+const API_KEY = process.env.API_KEY; // API KEY
+const API_URL = process.env.API_URL; // API URL
 
 // Selecting HTML elements
 
@@ -39,4 +39,3 @@ btn.addEventListener("click", () => {
     var city = searchBox.value;
     getWeather(city);
 })
-
